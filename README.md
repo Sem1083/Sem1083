@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sem</h1>
-<h3 align="center">I'm a teen that likes to do complicated stuff on the internet.</h3>
+<h3 align="center">Get of my fucking page</h3>
 <p>&nbsp;<p align="center"><a href="https://github.com/Sem1083"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sem1083&show_icons=true&theme=merko&count_private=true&hide=stars,issues" alt="sem1083"/></a></p></p>
 
 <p align="center">
